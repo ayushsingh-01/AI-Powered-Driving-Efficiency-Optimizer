@@ -20,7 +20,7 @@ This project is a machine learning-powered desktop application that helps electr
 
 ## 📷 Screenshot
 
-![screenshot](screenshot.png) <!-- Optional: Add a screenshot if available -->
+![screenshot](Screenshot 2025-06-13 120934.png) <!-- Optional: Add a screenshot if available -->
 
 ## 💡 How It Works
 
