@@ -20,7 +20,7 @@ This project is a machine learning-powered desktop application that helps electr
 
 ## 📷 Screenshot
 
-![screenshot](screenshot.png) <!-- Optional: Add a screenshot if available -->
+![screenshot](screenshot.png)
 
 ## 💡 How It Works
 
@@ -38,5 +38,5 @@ This project is a machine learning-powered desktop application that helps electr
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/ev-efficiency-optimizer.git
+   git clone https://github.com/ayushsingh-01/AI-Powered-Driving-Efficiency-Optimizer.git
    cd ev-efficiency-optimizer
